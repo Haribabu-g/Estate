@@ -5,7 +5,7 @@
 
 ## Live Demo 🎥
 Check out the live demo of the project here:  
-[Estate Live Demo](https://estate-gray.vercel.app/)
+[Estate Live Demo]🔗(https://estate-gray.vercel.app/)
 
 
 ## Features 🌟
@@ -39,6 +39,7 @@ git clone https://github.com/Haribabug/Estate.git
 
    ```
 5.Open your browser and go to ``` http://localhost:xxxx ``` to see the project in action.
+
 
 
 ## Technologies Used 🛠️
