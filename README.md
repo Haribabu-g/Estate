@@ -8,6 +8,7 @@ Check out the live demo of the project here:
 [Estate Live Demo]🔗(https://estate-gray.vercel.app/)
 
 
+
 ## Features 🌟
 - 🏠 **Anime-Themed Design**: A visually appealing design that blends the charm of anime with a real estate website.
 - 📱 **Responsive UI**: Built with **Tailwind CSS** for a responsive layout that adapts to all screen sizes.
@@ -15,6 +16,7 @@ Check out the live demo of the project here:
 - ⚡ **Fast Performance**: Optimized with **Vite** for quick load times and smooth transitions.
 - 🌍 **Vercel Deployment**: Deployed to **Vercel** for effortless scaling and excellent uptime.
  
+---
 
 ## Installation 🚀
 
@@ -41,6 +43,9 @@ git clone https://github.com/Haribabug/Estate.git
 5.Open your browser and go to ``` http://localhost:xxxx ``` to see the project in action.
 
 
+---
+
+
 
 ## Technologies Used 🛠️
 - ⚛️ React: JavaScript library for building user interfaces.
@@ -48,12 +53,23 @@ git clone https://github.com/Haribabug/Estate.git
 - 🌈 Tailwind CSS: Utility-first CSS framework for rapid UI development.
 - 💨 Framer Motion: React library for animations.
 - 🌐 Vercel: Platform for frontend frameworks and static sites, ideal for deploying React apps.
+
+
   
 
 ## Contributing 🤝
 Feel free to fork the repo, submit issues, or create pull requests if you'd like to contribute to the project!
 
 
+
 ## License 📄
 This project is open-source and available under the MIT License.
+
+---
+
+<div align="center">
+🌟If you like this repo, consider giving it a star! ⭐
+</div>
+
+
 
