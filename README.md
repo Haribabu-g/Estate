@@ -61,6 +61,11 @@ git clone https://github.com/Haribabug/Estate.git
 Feel free to fork the repo, submit issues, or create pull requests if you'd like to contribute to the project!
 
 
+## 📌 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/haribabu-g/)  
+
+
 
 ## License 📄
 This project is open-source and available under the MIT License.
