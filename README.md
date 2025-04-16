@@ -1,4 +1,4 @@
-# Estate 🏡✨///////////////////
+# Estate 🏡✨
 
 **Estate** is an anime-themed real estate website built with **Vite**, **React**, and styled using **Tailwind CSS**. It features smooth animations powered by **Framer Motion** and is deployed on **Vercel** for fast and reliable hosting. 🌐
 
